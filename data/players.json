@@ -1,0 +1,3550 @@
+{
+  "QB": [
+    {
+      "name": "Deuce Knight",
+      "school": "Auburn",
+      "year": "Redshirt Freshman",
+      "height": "6'4\"",
+      "weight": 217,
+      "stats": {
+        "Games": 2.0,
+        "Cmp": 17.0,
+        "Att": 25.0,
+        "Cmp%": 68.0,
+        "Yds": 259.0,
+        "TD": 2.0,
+        "TD%": 8.0,
+        "Int": 0.0,
+        "Int%": 0.0,
+        "Y/A": 10.4,
+        "AY/A": 11.96,
+        "Y/C": 15.2,
+        "Y/G": 129.5,
+        "Rate": 181.4
+      },
+      "fit_score": 82,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 84,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 89
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Husan Longstreet",
+      "school": "USC",
+      "year": "Redshirt Freshman",
+      "height": "6'0\"",
+      "weight": 200,
+      "stats": {
+        "Games": 4.0,
+        "Cmp": 13.0,
+        "Att": 15.0,
+        "Cmp%": 86.7,
+        "Yds": 103.0,
+        "TD": 1.0,
+        "TD%": 6.7,
+        "Int": 0.0,
+        "Int%": 0.0,
+        "Y/A": 6.9,
+        "AY/A": 8.2,
+        "Y/C": 7.9,
+        "Y/G": 25.8,
+        "Rate": 166.3
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 71,
+        "physical": 92,
+        "scheme": 54,
+        "culture": 89
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Drew Mestemaker",
+      "school": "North Texas",
+      "year": "Redshirt Sophomore",
+      "height": "6'4\"",
+      "weight": 211,
+      "stats": {
+        "Games": 14.0,
+        "Cmp": 319.0,
+        "Att": 463.0,
+        "Cmp%": 68.9,
+        "Yds": 4379.0,
+        "TD": 34.0,
+        "TD%": 7.3,
+        "Int": 9.0,
+        "Int%": 1.9,
+        "Y/A": 9.5,
+        "AY/A": 10.05,
+        "Y/C": 13.7,
+        "Y/G": 312.8,
+        "Rate": 168.7
+      },
+      "fit_score": 73,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 62,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Byrum Brown",
+      "school": "South Florida",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 232,
+      "stats": {
+        "Games": 12.0,
+        "Cmp": 226.0,
+        "Att": 341.0,
+        "Cmp%": 66.3,
+        "Yds": 3158.0,
+        "TD": 28.0,
+        "TD%": 8.2,
+        "Int": 7.0,
+        "Int%": 2.1,
+        "Y/A": 9.3,
+        "AY/A": 9.98,
+        "Y/C": 14.0,
+        "Y/G": 263.2,
+        "Rate": 167.1
+      },
+      "fit_score": 69,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 59,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Dylan Raiola",
+      "school": "Nebraska",
+      "year": "Junior",
+      "height": "6'3\"",
+      "weight": 230,
+      "stats": {
+        "Games": 9.0,
+        "Cmp": 181.0,
+        "Att": 250.0,
+        "Cmp%": 72.4,
+        "Yds": 2000.0,
+        "TD": 18.0,
+        "TD%": 7.2,
+        "Int": 6.0,
+        "Int%": 2.4,
+        "Y/A": 8.0,
+        "AY/A": 8.36,
+        "Y/C": 11.0,
+        "Y/G": 222.2,
+        "Rate": 158.6
+      },
+      "fit_score": 67,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 49,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Darian Mensah",
+      "school": "Duke",
+      "year": "Junior",
+      "height": "6'3\"",
+      "weight": 205,
+      "stats": {
+        "Games": 14.0,
+        "Cmp": 334.0,
+        "Att": 500.0,
+        "Cmp%": 66.8,
+        "Yds": 3973.0,
+        "TD": 34.0,
+        "TD%": 6.8,
+        "Int": 6.0,
+        "Int%": 1.2,
+        "Y/A": 7.9,
+        "AY/A": 8.77,
+        "Y/C": 11.9,
+        "Y/G": 283.8,
+        "Rate": 153.6
+      },
+      "fit_score": 66,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 47,
+        "physical": 98,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Brendan Sorsby",
+      "school": "Cincinnati",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 235,
+      "stats": {
+        "Games": 12.0,
+        "Cmp": 207.0,
+        "Att": 336.0,
+        "Cmp%": 61.6,
+        "Yds": 2800.0,
+        "TD": 27.0,
+        "TD%": 8.0,
+        "Int": 5.0,
+        "Int%": 1.5,
+        "Y/A": 8.3,
+        "AY/A": 9.27,
+        "Y/C": 13.5,
+        "Y/G": 233.3,
+        "Rate": 155.1
+      },
+      "fit_score": 65,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 46,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Sam Leavitt",
+      "school": "Arizona State",
+      "year": "Redshirt Sophomore",
+      "height": "6'2\"",
+      "weight": 205,
+      "stats": {
+        "Games": 7.0,
+        "Cmp": 145.0,
+        "Att": 239.0,
+        "Cmp%": 60.7,
+        "Yds": 1628.0,
+        "TD": 10.0,
+        "TD%": 4.2,
+        "Int": 3.0,
+        "Int%": 1.3,
+        "Y/A": 6.8,
+        "AY/A": 7.08,
+        "Y/C": 11.2,
+        "Y/G": 232.6,
+        "Rate": 129.2
+      },
+      "fit_score": 57,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 17,
+        "physical": 98,
+        "scheme": 55,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Rocco Becht",
+      "school": "Iowa State",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 210,
+      "stats": {
+        "Games": 12.0,
+        "Cmp": 205.0,
+        "Att": 339.0,
+        "Cmp%": 60.5,
+        "Yds": 2584.0,
+        "TD": 16.0,
+        "TD%": 4.7,
+        "Int": 9.0,
+        "Int%": 2.7,
+        "Y/A": 7.6,
+        "AY/A": 7.37,
+        "Y/C": 12.6,
+        "Y/G": 215.3,
+        "Rate": 134.8
+      },
+      "fit_score": 55,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 18,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "DJ Lagway",
+      "school": "Florida",
+      "year": "Junior",
+      "height": "6'3\"",
+      "weight": 247,
+      "stats": {
+        "Games": 12.0,
+        "Cmp": 213.0,
+        "Att": 337.0,
+        "Cmp%": 63.2,
+        "Yds": 2264.0,
+        "TD": 16.0,
+        "TD%": 4.7,
+        "Int": 14.0,
+        "Int%": 4.2,
+        "Y/A": 6.7,
+        "AY/A": 5.8,
+        "Y/C": 10.6,
+        "Y/G": 188.7,
+        "Rate": 127.0
+      },
+      "fit_score": 50,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 3,
+        "physical": 97,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    }
+  ],
+  "RB": [
+    {
+      "name": "Caleb Hawkins",
+      "school": "North Texas",
+      "year": "Sophomore",
+      "height": "6'2\"",
+      "weight": 200,
+      "stats": {
+        "Games": 13.0,
+        "Att": 231.0,
+        "Yds": 1804.0,
+        "Y/A": 6.2,
+        "TD": 29.0,
+        "Y/G": 28.5,
+        "Rec": 32.0,
+        "Y/R": 11.6,
+        "Plays": 263.0,
+        "Avg": 6.9
+      },
+      "fit_score": 84,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 86,
+        "physical": 96,
+        "scheme": 68,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Hollywood Smothers",
+      "school": "NC State",
+      "year": "Junior",
+      "height": "5'11\"",
+      "weight": 195,
+      "stats": {
+        "Games": 11.0,
+        "Att": 160.0,
+        "Yds": 1128.0,
+        "Y/A": 5.9,
+        "TD": 7.0,
+        "Y/G": 17.2,
+        "Rec": 37.0,
+        "Y/R": 5.1,
+        "Plays": 197.0,
+        "Avg": 5.7
+      },
+      "fit_score": 72,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 53,
+        "physical": 98,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Raleek Brown",
+      "school": "Arizona State",
+      "year": "Senior",
+      "height": "5'9\"",
+      "weight": 195,
+      "stats": {
+        "Games": 12.0,
+        "Att": 186.0,
+        "Yds": 1380.0,
+        "Y/A": 6.1,
+        "TD": 6.0,
+        "Y/G": 19.9,
+        "Rec": 34.0,
+        "Y/R": 7.0,
+        "Plays": 220.0,
+        "Avg": 6.3
+      },
+      "fit_score": 72,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 58,
+        "physical": 98,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Justice Haynes",
+      "school": "Michigan",
+      "year": "Senior",
+      "height": "5'11\"",
+      "weight": 210,
+      "stats": {
+        "Games": 7.0,
+        "Att": 121.0,
+        "Yds": 907.0,
+        "Y/A": 7.1,
+        "TD": 10.0,
+        "Y/G": 7.1,
+        "Rec": 13.0,
+        "Y/R": 3.8,
+        "Plays": 134.0,
+        "Avg": 6.8
+      },
+      "fit_score": 71,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 53,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Adam Mohammad",
+      "school": "Washington",
+      "year": "Junior",
+      "height": "6'0\"",
+      "weight": 220,
+      "stats": {
+        "Games": 13.0,
+        "Att": 106.0,
+        "Yds": 661.0,
+        "Y/A": 4.9,
+        "TD": 5.0,
+        "Y/G": 10.6,
+        "Rec": 17.0,
+        "Y/R": 8.1,
+        "Plays": 123.0,
+        "Avg": 5.4
+      },
+      "fit_score": 62,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 24,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Bryson Washington",
+      "school": "Baylor",
+      "year": "Junior",
+      "height": "6'0\"",
+      "weight": 216,
+      "stats": {
+        "Games": 12.0,
+        "Att": 154.0,
+        "Yds": 881.0,
+        "Y/A": 5.1,
+        "TD": 7.0,
+        "Y/G": 7.8,
+        "Rec": 18.0,
+        "Y/R": 5.2,
+        "Plays": 172.0,
+        "Avg": 5.1
+      },
+      "fit_score": 62,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 25,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Tre Wisner",
+      "school": "Texas",
+      "year": "Senior",
+      "height": "6'0\"",
+      "weight": 194,
+      "stats": {
+        "Games": 9.0,
+        "Att": 131.0,
+        "Yds": 743.0,
+        "Y/A": 4.6,
+        "TD": 4.0,
+        "Y/G": 16.2,
+        "Rec": 22.0,
+        "Y/R": 6.6,
+        "Plays": 153.0,
+        "Avg": 4.9
+      },
+      "fit_score": 61,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 27,
+        "physical": 98,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "London Montgomery",
+      "school": "East Carolina",
+      "year": "Junior",
+      "height": "5'11\"",
+      "weight": 197,
+      "stats": {
+        "Games": 12.0,
+        "Att": 156.0,
+        "Yds": 818.0,
+        "Y/A": 4.8,
+        "TD": 7.0,
+        "Y/G": 6.3,
+        "Rec": 15.0,
+        "Y/R": 5.1,
+        "Plays": 171.0,
+        "Avg": 4.8
+      },
+      "fit_score": 58,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 19,
+        "physical": 99,
+        "scheme": 69,
+        "culture": 65
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Christian Clark",
+      "school": "Texas",
+      "year": "Sophomore",
+      "height": "6'0\"",
+      "weight": 212,
+      "stats": {
+        "Games": 8.0,
+        "Att": 55.0,
+        "Yds": 293.0,
+        "Y/A": 4.3,
+        "TD": 2.0,
+        "Y/G": 7.1,
+        "Rec": 4.0,
+        "Y/R": 14.3,
+        "Plays": 59.0,
+        "Avg": 5.0
+      },
+      "fit_score": 56,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 5,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Makhi Frazier",
+      "school": "Michigan State",
+      "year": "Junior",
+      "height": "5'10\"",
+      "weight": 218,
+      "stats": {
+        "Games": 9.0,
+        "Att": 116.0,
+        "Yds": 545.0,
+        "Y/A": 4.5,
+        "TD": 2.0,
+        "Y/G": 2.8,
+        "Rec": 12.0,
+        "Y/R": 2.1,
+        "Plays": 128.0,
+        "Avg": 4.3
+      },
+      "fit_score": 55,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 5,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    }
+  ],
+  "WR": [
+    {
+      "name": "Omarion Miller",
+      "school": "Colorado",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 210,
+      "stats": {
+        "Games": 11.0,
+        "Rec": 45.0,
+        "Yds": 808.0,
+        "Y/R": 18.0,
+        "TD": 8.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Plays": 45.0,
+        "Avg": 18.0
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 66,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Nick Marsh",
+      "school": "Michigan State",
+      "year": "Junior",
+      "height": "6'3\"",
+      "weight": 203,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 59.0,
+        "Yds": 673.0,
+        "Y/R": 11.2,
+        "TD": 6.0,
+        "Y/G": 0.9,
+        "Att": 3.0,
+        "Plays": 62.0,
+        "Avg": 10.9
+      },
+      "fit_score": 70,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 46,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Eric Singleton Jr.",
+      "school": "Auburn",
+      "year": "Senior",
+      "height": "5'10\"",
+      "weight": 180,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 58.0,
+        "Yds": 595.0,
+        "Y/R": 9.2,
+        "TD": 3.0,
+        "Y/G": 5.1,
+        "Att": 14.0,
+        "Plays": 72.0,
+        "Avg": 8.3
+      },
+      "fit_score": 69,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 48,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Cam Coleman",
+      "school": "Auburn",
+      "year": "Junior",
+      "height": "6'3\"",
+      "weight": 201,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 56.0,
+        "Yds": 708.0,
+        "Y/R": 12.6,
+        "TD": 5.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Plays": 56.0,
+        "Avg": 12.6
+      },
+      "fit_score": 68,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 42,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Isaiah Horton",
+      "school": "Alabama",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 208,
+      "stats": {
+        "Games": 15.0,
+        "Rec": 42.0,
+        "Yds": 511.0,
+        "Y/R": 12.2,
+        "TD": 8.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Plays": 42.0,
+        "Avg": 12.2
+      },
+      "fit_score": 67,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 41,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Reed Harris",
+      "school": "Boston College",
+      "year": "Senior",
+      "height": "6'5\"",
+      "weight": 217,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 39.0,
+        "Yds": 669.0,
+        "Y/R": 17.3,
+        "TD": 5.0,
+        "Y/G": -0.3,
+        "Att": 1.0,
+        "Plays": 40.0,
+        "Avg": 16.7
+      },
+      "fit_score": 67,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 46,
+        "physical": 95,
+        "scheme": 68,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "JJ Buchanan",
+      "school": "Utah",
+      "year": "Sophomore",
+      "height": "6'3\"",
+      "weight": 225,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 26.0,
+        "Yds": 427.0,
+        "Y/R": 16.4,
+        "TD": 5.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Plays": 26.0,
+        "Avg": 16.4
+      },
+      "fit_score": 66,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 36,
+        "physical": 96,
+        "scheme": 68,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Darrell Gill Jr.",
+      "school": "Syracuse",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 190,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 32.0,
+        "Yds": 507.0,
+        "Y/R": 15.8,
+        "TD": 5.0,
+        "Y/G": 0.1,
+        "Att": 1.0,
+        "Plays": 33.0,
+        "Avg": 15.4
+      },
+      "fit_score": 66,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 38,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Isiah Canion",
+      "school": "Georgia Tech",
+      "year": "Junior",
+      "height": "6'4\"",
+      "weight": 215,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 33.0,
+        "Yds": 480.0,
+        "Y/R": 14.5,
+        "TD": 4.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Plays": 33.0,
+        "Avg": 14.5
+      },
+      "fit_score": 64,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 30,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "DeAndre Moore Jr.",
+      "school": "Texas",
+      "year": "Senior",
+      "height": "6'0\"",
+      "weight": 192,
+      "stats": {
+        "Games": 11.0,
+        "Rec": 38.0,
+        "Yds": 532.0,
+        "Y/R": 14.0,
+        "TD": 4.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Plays": 38.0,
+        "Avg": 14.0
+      },
+      "fit_score": 63,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 31,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    }
+  ],
+  "TE": [
+    {
+      "name": "Brody Foley",
+      "school": "Tulsa",
+      "year": "Senior",
+      "height": "6'6\"",
+      "weight": 260,
+      "stats": {
+        "Games": 11.0,
+        "Rec": 37.0,
+        "Yds": 540.0,
+        "Y/R": 14.3,
+        "TD": 9.0,
+        "Y/G": 1.1,
+        "Att": 5.0,
+        "Y/A": 2.4,
+        "Plays": 42.0,
+        "Avg": 12.9
+      },
+      "fit_score": 82,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 80,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 57
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Luke Reynolds",
+      "school": "Penn State",
+      "year": "Junior",
+      "height": "6'4\"",
+      "weight": 253,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 26.0,
+        "Yds": 283.0,
+        "Y/R": 9.9,
+        "TD": 0.0,
+        "Y/G": 2.0,
+        "Att": 2.0,
+        "Y/A": 13.0,
+        "Plays": 28.0,
+        "Avg": 10.1
+      },
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 54,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jayvontay Conner",
+      "school": "East Carolina",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 239,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 23.0,
+        "Yds": 344.0,
+        "Y/R": 14.5,
+        "TD": 3.0,
+        "Y/G": 0.9,
+        "Att": 3.0,
+        "Y/A": 3.7,
+        "Plays": 26.0,
+        "Avg": 13.2
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 60,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 57
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Ben Brahmer",
+      "school": "Iowa State",
+      "year": "Senior",
+      "height": "6'7\"",
+      "weight": 255,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 37.0,
+        "Yds": 444.0,
+        "Y/R": 12.1,
+        "TD": 6.0,
+        "Y/G": -0.2,
+        "Att": 1.0,
+        "Y/A": -2.0,
+        "Plays": 38.0,
+        "Avg": 11.7
+      },
+      "fit_score": 74,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 51,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Dorian Thomas",
+      "school": "New Mexico",
+      "year": "Junior",
+      "height": "6'4\"",
+      "weight": 239,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 56.0,
+        "Yds": 560.0,
+        "Y/R": 10.0,
+        "TD": 4.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Y/A": 0.0,
+        "Plays": 56.0,
+        "Avg": 10.0
+      },
+      "fit_score": 73,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 51,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 65
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Hunter Welcing",
+      "school": "Northwestern",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 250,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 28.0,
+        "Yds": 296.0,
+        "Y/R": 10.6,
+        "TD": 2.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Y/A": 0.0,
+        "Plays": 28.0,
+        "Avg": 10.6
+      },
+      "fit_score": 69,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 37,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Walker Lyons",
+      "school": "USC",
+      "year": "Junior",
+      "height": "6'4\"",
+      "weight": 245,
+      "stats": {
+        "Games": 12.0,
+        "Rec": 20.0,
+        "Yds": 223.0,
+        "Y/R": 11.2,
+        "TD": 2.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Y/A": 0.0,
+        "Plays": 20.0,
+        "Avg": 11.2
+      },
+      "fit_score": 69,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 35,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Cole Rusk",
+      "school": "Illinois",
+      "year": "Senior",
+      "height": "6'5\"",
+      "weight": 250,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 19.0,
+        "Yds": 217.0,
+        "Y/R": 11.4,
+        "TD": 1.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Y/A": 0.0,
+        "Plays": 19.0,
+        "Avg": 11.4
+      },
+      "fit_score": 67,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 33,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Theo Melin Ohrstrom",
+      "school": "Texas A&M",
+      "year": "Senior",
+      "height": "6'6\"",
+      "weight": 257,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 19.0,
+        "Yds": 168.0,
+        "Y/R": 8.8,
+        "TD": 1.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Y/A": 0.0,
+        "Plays": 19.0,
+        "Avg": 8.8
+      },
+      "fit_score": 64,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 24,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jack Van Dorselaer",
+      "school": "Tennessee",
+      "year": "Sophomore",
+      "height": "6'5\"",
+      "weight": 236,
+      "stats": {
+        "Games": 13.0,
+        "Rec": 5.0,
+        "Yds": 23.0,
+        "Y/R": 4.6,
+        "TD": 1.0,
+        "Y/G": 0.0,
+        "Att": 0.0,
+        "Y/A": 0.0,
+        "Plays": 5.0,
+        "Avg": 4.6
+      },
+      "fit_score": 59,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 4,
+        "physical": 98,
+        "scheme": 83,
+        "culture": 83
+      },
+      "ai_insight": null
+    }
+  ],
+  "OL": [
+    {
+      "name": "Carius Curne",
+      "school": "LSU",
+      "year": "Sophomore",
+      "height": "6'5\"",
+      "weight": 320,
+      "stats": {},
+      "fit_score": 79,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Ty Haywood",
+      "school": "Michigan",
+      "year": "Sophomore",
+      "height": "6'5\"",
+      "weight": 316,
+      "stats": {},
+      "fit_score": 79,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jordan Seaton",
+      "school": "Colorado",
+      "year": "Junior",
+      "height": "6'5\"",
+      "weight": 330,
+      "stats": {},
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Melvin Siani",
+      "school": "Wake Forest",
+      "year": "Junior",
+      "height": "6'6\"",
+      "weight": 302,
+      "stats": {},
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Wilkin Formby",
+      "school": "Alabama",
+      "year": "Junior",
+      "height": "6'7\"",
+      "weight": 324,
+      "stats": {},
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Kolt Dieterich",
+      "school": "Sam Houston",
+      "year": "Junior",
+      "height": "6'6\"",
+      "weight": 310,
+      "stats": {},
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jordan Church",
+      "school": "Louisville",
+      "year": "Junior",
+      "height": "6'4\"",
+      "weight": 310,
+      "stats": {},
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Lance Heard",
+      "school": "Tennessee",
+      "year": "Senior",
+      "height": "6'6\"",
+      "weight": 330,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Coleton Price",
+      "school": "Baylor",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 318,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Joe Brunner",
+      "school": "Wisconsin",
+      "year": "Senior",
+      "height": "6'5\"",
+      "weight": 317,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "E'Marion Harris",
+      "school": "Arkansas",
+      "year": "Senior",
+      "height": "6'7\"",
+      "weight": 313,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Devin Harper",
+      "school": "Ole Miss",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 315,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Tegra Tshabola",
+      "school": "Ohio State",
+      "year": "Senior",
+      "height": "6'6\"",
+      "weight": 322,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Brendan Black",
+      "school": "Iowa State",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 320,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Noah McKinney",
+      "school": "Oklahoma State",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 330,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Cole Best",
+      "school": "South Florida",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 315,
+      "stats": {},
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Xavier Chaplin",
+      "school": "Auburn",
+      "year": "Senior",
+      "height": "6'7\"",
+      "weight": 348,
+      "stats": {},
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 97,
+        "scheme": 97,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Nick Brooks",
+      "school": "Texas",
+      "year": "Senior",
+      "height": "6'7\"",
+      "weight": 349,
+      "stats": {},
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 96,
+        "scheme": 96,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jacarrius Peak",
+      "school": "NC State",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 285,
+      "stats": {},
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 94,
+        "scheme": 96,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Bryant Williams",
+      "school": "Louisiana",
+      "year": "Senior",
+      "height": "6'7\"",
+      "weight": 315,
+      "stats": {},
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 50,
+        "physical": 100,
+        "scheme": 97,
+        "culture": 57
+      },
+      "ai_insight": null
+    }
+  ],
+  "EDGE": [
+    {
+      "name": "John Henry Daley",
+      "school": "Utah",
+      "year": "Junior",
+      "height": "6'4\"",
+      "weight": 255,
+      "stats": {
+        "Games": 11.0,
+        "Solo": 24.0,
+        "Ast": 24.0,
+        "Comb": 48.0,
+        "TFL": 17.5,
+        "Sk": 11.5,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 2.0
+      },
+      "fit_score": 91,
+      "fit_grade": "A+",
+      "score_breakdown": {
+        "statistical": 97,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Princewill Umanmielen",
+      "school": "Ole Miss",
+      "year": "Senior",
+      "height": "6'5\"",
+      "weight": 245,
+      "stats": {
+        "Games": 15.0,
+        "Solo": 17.0,
+        "Ast": 27.0,
+        "Comb": 44.0,
+        "TFL": 13.0,
+        "Sk": 9.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 80,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 69,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Damon Wilson II",
+      "school": "Missouri",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 250,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 9.0,
+        "Ast": 14.0,
+        "Comb": 23.0,
+        "TFL": 9.5,
+        "Sk": 9.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 3.0,
+        "IntTD": 0.0,
+        "PD": 2.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 59,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Wendell Gregory",
+      "school": "Oklahoma State",
+      "year": "Sophomore",
+      "height": "6'3\"",
+      "weight": 255,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 19.0,
+        "Ast": 8.0,
+        "Comb": 27.0,
+        "TFL": 12.0,
+        "Sk": 4.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 49,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Tobi Osunsanmi",
+      "school": "Kansas State",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 250,
+      "stats": {
+        "Games": 6.0,
+        "Solo": 14.0,
+        "Ast": 6.0,
+        "Comb": 20.0,
+        "TFL": 6.0,
+        "Sk": 4.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 66,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 28,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jordan Ross",
+      "school": "Tennessee",
+      "year": "Junior",
+      "height": "6'5\"",
+      "weight": 245,
+      "stats": {
+        "Games": 11.0,
+        "Solo": 6.0,
+        "Ast": 17.0,
+        "Comb": 23.0,
+        "TFL": 3.5,
+        "Sk": 1.5,
+        "Int": 0.0,
+        "Yds": 10.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 65,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 24,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Chaz Coleman",
+      "school": "Penn State",
+      "year": "Sophomore",
+      "height": "6'4\"",
+      "weight": 246,
+      "stats": {
+        "Games": 9.0,
+        "Solo": 6.0,
+        "Ast": 2.0,
+        "Comb": 8.0,
+        "TFL": 3.0,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 48.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 2.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 64,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 16,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Amaris Williams",
+      "school": "Auburn",
+      "year": "Junior",
+      "height": "6'2\"",
+      "weight": 260,
+      "stats": {
+        "Games": 11.0,
+        "Solo": 9.0,
+        "Ast": 5.0,
+        "Comb": 14.0,
+        "TFL": 6.0,
+        "Sk": 2.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 64,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 19,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Qua Russaw",
+      "school": "Alabama",
+      "year": "Junior",
+      "height": "6'2\"",
+      "weight": 243,
+      "stats": {
+        "Games": 9.0,
+        "Solo": 7.0,
+        "Ast": 7.0,
+        "Comb": 14.0,
+        "TFL": 1.0,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 59,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 6,
+        "physical": 99,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Noah Carter",
+      "school": "Alabama",
+      "year": "Sophomore",
+      "height": "6'4\"",
+      "weight": 243,
+      "stats": {
+        "Games": 11.0,
+        "Solo": 4.0,
+        "Ast": 5.0,
+        "Comb": 9.0,
+        "TFL": 0.5,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 58,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 0,
+        "physical": 99,
+        "scheme": 83,
+        "culture": 83
+      },
+      "ai_insight": null
+    }
+  ],
+  "DL": [
+    {
+      "name": "Devan Thompkins",
+      "school": "USC",
+      "year": "Senior",
+      "height": "6'5\"",
+      "weight": 285,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 18.0,
+        "Ast": 13.0,
+        "Comb": 31.0,
+        "TFL": 6.5,
+        "Sk": 3.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 2.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 89,
+      "fit_grade": "A",
+      "score_breakdown": {
+        "statistical": 95,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "James Smith",
+      "school": "Alabama",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 297,
+      "stats": {
+        "Games": 15.0,
+        "Solo": 17.0,
+        "Ast": 11.0,
+        "Comb": 28.0,
+        "TFL": 6.5,
+        "Sk": 2.5,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 81,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 73,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Francis Brewu",
+      "school": "Pittsburgh",
+      "year": "Junior",
+      "height": "6'2\"",
+      "weight": 280,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 18.0,
+        "Ast": 18.0,
+        "Comb": 36.0,
+        "TFL": 7.0,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 80,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 67,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Mateen Ibirogba",
+      "school": "Wake Forest",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 296,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 7.0,
+        "Ast": 14.0,
+        "Comb": 21.0,
+        "TFL": 3.5,
+        "Sk": 2.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 57,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Tomiwa Durojaiye",
+      "school": "Illinois",
+      "year": "Senior",
+      "height": "6'5\"",
+      "weight": 300,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 10.0,
+        "Ast": 6.0,
+        "Comb": 16.0,
+        "TFL": 4.5,
+        "Sk": 2.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 59,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Keon Keeley",
+      "school": "Alabama",
+      "year": "Junior",
+      "height": "6'5\"",
+      "weight": 282,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 6.0,
+        "Ast": 10.0,
+        "Comb": 16.0,
+        "TFL": 3.0,
+        "Sk": 3.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 55,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Keona Davis",
+      "school": "Nebraska",
+      "year": "Junior",
+      "height": "6'5\"",
+      "weight": 275,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 18.0,
+        "Ast": 14.0,
+        "Comb": 32.0,
+        "TFL": 3.5,
+        "Sk": 1.5,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 73,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 46,
+        "physical": 98,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Xavier Gilliam",
+      "school": "Penn State",
+      "year": "Sophomore",
+      "height": "6'2\"",
+      "weight": 300,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 11.0,
+        "Ast": 4.0,
+        "Comb": 15.0,
+        "TFL": 2.0,
+        "Sk": 0.5,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 62,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 12,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Tionne Gray",
+      "school": "Oregon",
+      "year": "Sophomore",
+      "height": "6'6\"",
+      "weight": 336,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 5.0,
+        "Ast": 13.0,
+        "Comb": 18.0,
+        "TFL": 2.0,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 58,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 7,
+        "physical": 90,
+        "scheme": 82,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Terrance Green",
+      "school": "Oregon",
+      "year": "Junior",
+      "height": "6'5\"",
+      "weight": 330,
+      "stats": {
+        "Games": 15.0,
+        "Solo": 8.0,
+        "Ast": 7.0,
+        "Comb": 15.0,
+        "TFL": 1.0,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 57,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 3,
+        "physical": 96,
+        "scheme": 82,
+        "culture": 75
+      },
+      "ai_insight": null
+    }
+  ],
+  "LB": [
+    {
+      "name": "Rasheem Biles",
+      "school": "Pittsburgh",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 220,
+      "stats": {
+        "Games": 10.0,
+        "Solo": 39.0,
+        "Ast": 62.0,
+        "Comb": 101.0,
+        "TFL": 17.0,
+        "Sk": 4.5,
+        "Int": 2.0,
+        "Yds": 23.0,
+        "Avg": 42.5,
+        "IntTD": 2.0,
+        "PD": 4.0,
+        "FR": 1.0,
+        "FRTD": 1.0,
+        "FF": 2.0
+      },
+      "fit_score": 84,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 82,
+        "physical": 98,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Owen Long",
+      "school": "Colorado State",
+      "year": "Junior",
+      "height": "6'2\"",
+      "weight": 230,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 58.0,
+        "Ast": 93.0,
+        "Comb": 151.0,
+        "TFL": 5.0,
+        "Sk": 2.0,
+        "Int": 0.0,
+        "Yds": 15.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 5.0,
+        "FR": 2.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 76,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 53,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Cade Uluave",
+      "school": "California",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 235,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 42.0,
+        "Ast": 58.0,
+        "Comb": 100.0,
+        "TFL": 12.0,
+        "Sk": 3.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "IntTD": 0.0,
+        "PD": 6.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 73,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 49,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "TJ Dottery",
+      "school": "Ole Miss",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 230,
+      "stats": {
+        "Games": 15.0,
+        "Solo": 48.0,
+        "Ast": 50.0,
+        "Comb": 98.0,
+        "TFL": 5.5,
+        "Sk": 1.5,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 2.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 2.0
+      },
+      "fit_score": 69,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 37,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Caleb Bacon",
+      "school": "Iowa State",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 240,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 32.0,
+        "Ast": 36.0,
+        "Comb": 68.0,
+        "TFL": 9.5,
+        "Sk": 3.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 3.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 68,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 34,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Khmori House",
+      "school": "North Carolina",
+      "year": "Junior",
+      "height": "6'0\"",
+      "weight": 215,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 46.0,
+        "Ast": 35.0,
+        "Comb": 81.0,
+        "TFL": 2.5,
+        "Sk": 1.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 13.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 66,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 30,
+        "physical": 96,
+        "scheme": 82,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Liona Lefau",
+      "school": "Texas",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 227,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 27.0,
+        "Ast": 42.0,
+        "Comb": 69.0,
+        "TFL": 3.0,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 52.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 3.0,
+        "FR": 1.0,
+        "FRTD": 1.0,
+        "FF": 0.0
+      },
+      "fit_score": 62,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 17,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Sammy Omosigho",
+      "school": "Oklahoma",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 235,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 28.0,
+        "Ast": 22.0,
+        "Comb": 50.0,
+        "TFL": 4.5,
+        "Sk": 2.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 3.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 61,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 15,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Kobie McKinzie",
+      "school": "Oklahoma",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 236,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 12.0,
+        "Ast": 20.0,
+        "Comb": 32.0,
+        "TFL": 6.5,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 59,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 8,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Mikai Gbayor",
+      "school": "North Carolina",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 230,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 17.0,
+        "Ast": 24.0,
+        "Comb": 41.0,
+        "TFL": 2.5,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 1.0,
+        "FRTD": 1.0,
+        "FF": 1.0
+      },
+      "fit_score": 58,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 7,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    }
+  ],
+  "CB": [
+    {
+      "name": "Jahiem Johnson",
+      "school": "Tulane",
+      "year": "Senior",
+      "height": "6'0\"",
+      "weight": 189,
+      "stats": {
+        "Games": 14.0,
+        "Solo": 32.0,
+        "Ast": 10.0,
+        "Comb": 42.0,
+        "TFL": 1.0,
+        "Sk": 0.0,
+        "Int": 4.0,
+        "Yds": 0.0,
+        "Avg": 9.0,
+        "IntTD": 0.0,
+        "PD": 9.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 88,
+      "fit_grade": "A",
+      "score_breakdown": {
+        "statistical": 94,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 61
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Smith Snowden",
+      "school": "Utah",
+      "year": "Senior",
+      "height": "5'10\"",
+      "weight": 185,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 24.0,
+        "Ast": 13.0,
+        "Comb": 37.0,
+        "TFL": 2.0,
+        "Sk": 0.0,
+        "Int": 2.0,
+        "Yds": 0.0,
+        "Avg": 20.5,
+        "IntTD": 0.0,
+        "PD": 9.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 81,
+      "fit_grade": "A-",
+      "score_breakdown": {
+        "statistical": 73,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Bo Mascoe",
+      "school": "Rutgers",
+      "year": "Senior",
+      "height": "5'11\"",
+      "weight": 185,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 30.0,
+        "Ast": 23.0,
+        "Comb": 53.0,
+        "TFL": 2.0,
+        "Sk": 0.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 68.0,
+        "IntTD": 0.0,
+        "PD": 4.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 2.0
+      },
+      "fit_score": 72,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 47,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "DJ McKinney",
+      "school": "Colorado",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 180,
+      "stats": {
+        "Games": 9.0,
+        "Solo": 27.0,
+        "Ast": 8.0,
+        "Comb": 35.0,
+        "TFL": 1.0,
+        "Sk": 0.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 5.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 70,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 43,
+        "physical": 98,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jalyn Crawford",
+      "school": "Auburn",
+      "year": "Junior",
+      "height": "5'11\"",
+      "weight": 179,
+      "stats": {
+        "Games": 11.0,
+        "Solo": 11.0,
+        "Ast": 4.0,
+        "Comb": 15.0,
+        "TFL": 1.0,
+        "Sk": 0.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 4.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 68,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 33,
+        "physical": 98,
+        "scheme": 83,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jontez Williams",
+      "school": "Iowa State",
+      "year": "Senior",
+      "height": "5'11\"",
+      "weight": 200,
+      "stats": {
+        "Games": 5.0,
+        "Solo": 9.0,
+        "Ast": 6.0,
+        "Comb": 15.0,
+        "TFL": 1.5,
+        "Sk": 0.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 42.0,
+        "IntTD": 0.0,
+        "PD": 3.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 67,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 31,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jayden Sanders",
+      "school": "Michigan",
+      "year": "Sophomore",
+      "height": "6'1\"",
+      "weight": 193,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 16.0,
+        "Ast": 7.0,
+        "Comb": 23.0,
+        "TFL": 0.0,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 61,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 9,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "A.J. Harris",
+      "school": "Penn State",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 193,
+      "stats": {
+        "Games": 11.0,
+        "Solo": 25.0,
+        "Ast": 8.0,
+        "Comb": 33.0,
+        "TFL": 1.0,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 61,
+      "fit_grade": "C-",
+      "score_breakdown": {
+        "statistical": 16,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Rickey Gibson III",
+      "school": "Tennessee",
+      "year": "Senior",
+      "height": "6'0\"",
+      "weight": 185,
+      "stats": {
+        "Games": 1.0,
+        "Solo": 1.0,
+        "Ast": 0.0,
+        "Comb": 1.0,
+        "TFL": 0.0,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 56,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 0,
+        "physical": 100,
+        "scheme": 83,
+        "culture": 67
+      },
+      "ai_insight": null
+    }
+  ],
+  "S": [
+    {
+      "name": "Terry Moore",
+      "school": "Duke",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 200,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 45.0,
+        "Ast": 26.0,
+        "Comb": 71.0,
+        "TFL": 7.0,
+        "Sk": 1.0,
+        "Int": 4.0,
+        "Yds": 0.0,
+        "Avg": 20.8,
+        "IntTD": 0.0,
+        "PD": 6.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 2.0
+      },
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 84,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Ty Benefield",
+      "school": "Boise State",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 205,
+      "stats": {
+        "Games": 14.0,
+        "Solo": 70.0,
+        "Ast": 37.0,
+        "Comb": 107.0,
+        "TFL": 8.5,
+        "Sk": 0.0,
+        "Int": 2.0,
+        "Yds": 0.0,
+        "Avg": 18.5,
+        "IntTD": 0.0,
+        "PD": 4.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 72,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 72,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 57
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Earl Little Jr.",
+      "school": "Florida State",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 199,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 33.0,
+        "Ast": 43.0,
+        "Comb": 76.0,
+        "TFL": 2.0,
+        "Sk": 0.0,
+        "Int": 4.0,
+        "Yds": 0.0,
+        "Avg": 20.8,
+        "IntTD": 0.0,
+        "PD": 2.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 2.0
+      },
+      "fit_score": 71,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 64,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Marcus Neal Jr.",
+      "school": "Iowa State",
+      "year": "Junior",
+      "height": "6'1\"",
+      "weight": 215,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 40.0,
+        "Ast": 37.0,
+        "Comb": 77.0,
+        "TFL": 11.0,
+        "Sk": 1.0,
+        "Int": 2.0,
+        "Yds": 0.0,
+        "Avg": 17.0,
+        "IntTD": 0.0,
+        "PD": 3.0,
+        "FR": 1.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 71,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 61,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Edwin Joseph",
+      "school": "Florida State",
+      "year": "Junior",
+      "height": "6'0\"",
+      "weight": 201,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 19.0,
+        "Ast": 18.0,
+        "Comb": 37.0,
+        "TFL": 3.5,
+        "Sk": 0.0,
+        "Int": 3.0,
+        "Yds": 0.0,
+        "Avg": 16.7,
+        "IntTD": 0.0,
+        "PD": 5.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 70,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 57,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Omar Thornton",
+      "school": "Boston College",
+      "year": "Junior",
+      "height": "5'11\"",
+      "weight": 201,
+      "stats": {
+        "Games": 12.0,
+        "Solo": 56.0,
+        "Ast": 26.0,
+        "Comb": 82.0,
+        "TFL": 8.0,
+        "Sk": 2.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 4.0
+      },
+      "fit_score": 65,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 43,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Koi Perich",
+      "school": "Minnesota",
+      "year": "Junior",
+      "height": "6'1\"",
+      "weight": 200,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 39.0,
+        "Ast": 43.0,
+        "Comb": 82.0,
+        "TFL": 3.0,
+        "Sk": 1.0,
+        "Int": 1.0,
+        "Yds": 0.0,
+        "Avg": 27.0,
+        "IntTD": 1.0,
+        "PD": 2.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 1.0
+      },
+      "fit_score": 64,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 41,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Boo Carter",
+      "school": "Tennessee",
+      "year": "Junior",
+      "height": "5'11\"",
+      "weight": 200,
+      "stats": {
+        "Games": 9.0,
+        "Solo": 16.0,
+        "Ast": 9.0,
+        "Comb": 25.0,
+        "TFL": 4.5,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 3.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 3.0
+      },
+      "fit_score": 57,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 20,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Faheem Delane",
+      "school": "Ohio State",
+      "year": "Sophomore",
+      "height": "6'1\"",
+      "weight": 210,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 6.0,
+        "Ast": 6.0,
+        "Comb": 12.0,
+        "TFL": 1.0,
+        "Sk": 0.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 0.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 51,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 0,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Kingston Lopa",
+      "school": "Oregon",
+      "year": "Sophomore",
+      "height": "6'5\"",
+      "weight": 210,
+      "stats": {
+        "Games": 13.0,
+        "Solo": 5.0,
+        "Ast": 7.0,
+        "Comb": 12.0,
+        "TFL": 1.0,
+        "Sk": 1.0,
+        "Int": 0.0,
+        "Yds": 0.0,
+        "Avg": 0.0,
+        "IntTD": 0.0,
+        "PD": 1.0,
+        "FR": 0.0,
+        "FRTD": 0.0,
+        "FF": 0.0
+      },
+      "fit_score": 50,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 4,
+        "physical": 92,
+        "scheme": 54,
+        "culture": 83
+      },
+      "ai_insight": null
+    }
+  ],
+  "K": [
+    {
+      "name": "Tyler Robles",
+      "school": "Texas State",
+      "year": "Junior",
+      "height": "5'7\"",
+      "weight": 175,
+      "stats": {
+        "Games": 13.0,
+        "XPM": 53.0,
+        "XPA": 54.0,
+        "XP%": 98.1,
+        "FGM": 21.0,
+        "FGA": 23.0,
+        "FG%": 91.3,
+        "Pts": 116.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 78,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 77,
+        "physical": 92,
+        "scheme": 68,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Patrick Durkin",
+      "school": "Tulane",
+      "year": "Junior",
+      "height": "5'10\"",
+      "weight": 175,
+      "stats": {
+        "Games": 14.0,
+        "XPM": 41.0,
+        "XPA": 42.0,
+        "XP%": 97.6,
+        "FGM": 25.0,
+        "FGA": 28.0,
+        "FG%": 89.3,
+        "Pts": 116.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 71,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 69
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jack Olsen",
+      "school": "Northwestern",
+      "year": "Senior",
+      "height": "5'11\"",
+      "weight": 170,
+      "stats": {
+        "Games": 14.0,
+        "XPM": 41.0,
+        "XPA": 42.0,
+        "XP%": 97.6,
+        "FGM": 25.0,
+        "FGA": 28.0,
+        "FG%": 89.3,
+        "Pts": 116.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 77,
+      "fit_grade": "B+",
+      "score_breakdown": {
+        "statistical": 71,
+        "physical": 98,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "David Olano",
+      "school": "Illinois",
+      "year": "Senior",
+      "height": "5'10\"",
+      "weight": 160,
+      "stats": {
+        "Games": 13.0,
+        "XPM": 44.0,
+        "XPA": 44.0,
+        "XP%": 100.0,
+        "FGM": 20.0,
+        "FGA": 23.0,
+        "FG%": 87.0,
+        "Pts": 104.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 70,
+        "physical": 94,
+        "scheme": 68,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Jackson Kleather",
+      "school": "Bowling Green",
+      "year": "Senior",
+      "height": "5'10\"",
+      "weight": 170,
+      "stats": {
+        "Games": 12.0,
+        "XPM": 26.0,
+        "XPA": 26.0,
+        "XP%": 100.0,
+        "FGM": 19.0,
+        "FGA": 22.0,
+        "FG%": 86.4,
+        "Pts": 83.0,
+        "Pnt": 2.0,
+        "Yds": 99.0,
+        "Y/P": 49.5
+      },
+      "fit_score": 73,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 65,
+        "physical": 98,
+        "scheme": 69,
+        "culture": 57
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Upton Bellenfant",
+      "school": "Texas Tech",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 190,
+      "stats": {
+        "Games": 7.0,
+        "XPM": 14.0,
+        "XPA": 16.0,
+        "XP%": 87.5,
+        "FGM": 6.0,
+        "FGA": 6.0,
+        "FG%": 100.0,
+        "Pts": 32.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 72,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 57,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Scott Starzyk",
+      "school": "Arkansas",
+      "year": "Sophomore",
+      "height": "5'10\"",
+      "weight": 172,
+      "stats": {
+        "Games": 12.0,
+        "XPM": 47.0,
+        "XPA": 47.0,
+        "XP%": 100.0,
+        "FGM": 14.0,
+        "FGA": 18.0,
+        "FG%": 77.8,
+        "Pts": 89.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 71,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 47,
+        "physical": 99,
+        "scheme": 69,
+        "culture": 83
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Max Gilbert",
+      "school": "Tennessee",
+      "year": "Junior",
+      "height": "6'0\"",
+      "weight": 200,
+      "stats": {
+        "Games": 13.0,
+        "XPM": 64.0,
+        "XPA": 64.0,
+        "XP%": 100.0,
+        "FGM": 14.0,
+        "FGA": 19.0,
+        "FG%": 73.7,
+        "Pts": 106.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 68,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 41,
+        "physical": 100,
+        "scheme": 69,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Gianni Spetic",
+      "school": "Memphis",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 211,
+      "stats": {
+        "Games": 13.0,
+        "XPM": 49.0,
+        "XPA": 49.0,
+        "XP%": 100.0,
+        "FGM": 15.0,
+        "FGA": 20.0,
+        "FG%": 75.0,
+        "Pts": 94.0,
+        "Pnt": 0.0,
+        "Yds": 0.0,
+        "Y/P": 0.0
+      },
+      "fit_score": 65,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 42,
+        "physical": 96,
+        "scheme": 68,
+        "culture": 61
+      },
+      "ai_insight": null
+    }
+  ],
+  "P": [
+    {
+      "name": "John Hoyet Chance",
+      "school": "Louisiana Tech",
+      "year": "Junior",
+      "height": "6'1\"",
+      "weight": 205,
+      "stats": {
+        "Games": 13.0,
+        "PUNTS": 66.0,
+        "AVG": 47.3,
+        "LNG": 72.0,
+        "YDS": 3120.0,
+        "TB": 5.0,
+        "TB%": 7.58,
+        "IN20": 28.0,
+        "IN20%": 42.42
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 75,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 65
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Billy Gowers",
+      "school": "Hawaii",
+      "year": "Sophomore",
+      "height": "6'1\"",
+      "weight": 205,
+      "stats": {
+        "Games": 13.0,
+        "PUNTS": 49.0,
+        "AVG": 46.2,
+        "LNG": 67.0,
+        "YDS": 2266.0,
+        "TB": 2.0,
+        "TB%": 4.08,
+        "IN20": 25.0,
+        "IN20%": 51.02
+      },
+      "fit_score": 75,
+      "fit_grade": "B",
+      "score_breakdown": {
+        "statistical": 73,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 73
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Bryan Hansen",
+      "school": "Colorado State",
+      "year": "Senior",
+      "height": "6'3\"",
+      "weight": 210,
+      "stats": {
+        "Games": 12.0,
+        "PUNTS": 57.0,
+        "AVG": 47.9,
+        "LNG": 67.0,
+        "YDS": 2730.0,
+        "TB": 5.0,
+        "TB%": 8.77,
+        "IN20": 13.0,
+        "IN20%": 22.81
+      },
+      "fit_score": 70,
+      "fit_grade": "B-",
+      "score_breakdown": {
+        "statistical": 61,
+        "physical": 100,
+        "scheme": 55,
+        "culture": 67
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Reed Chandley",
+      "school": "Georgia State",
+      "year": "Junior",
+      "height": "6'0\"",
+      "weight": 175,
+      "stats": {
+        "Games": 12.0,
+        "PUNTS": 54.0,
+        "AVG": 45.8,
+        "LNG": 62.0,
+        "YDS": 2474.0,
+        "TB": 2.0,
+        "TB%": 3.7,
+        "IN20": 21.0,
+        "IN20%": 38.89
+      },
+      "fit_score": 68,
+      "fit_grade": "C+",
+      "score_breakdown": {
+        "statistical": 55,
+        "physical": 96,
+        "scheme": 54,
+        "culture": 75
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Hunter Green",
+      "school": "San Diego State",
+      "year": "Senior",
+      "height": "6'4\"",
+      "weight": 225,
+      "stats": {
+        "Games": 13.0,
+        "PUNTS": 63.0,
+        "AVG": 47.0,
+        "LNG": 68.0,
+        "YDS": 2959.0,
+        "TB": 10.0,
+        "TB%": 15.87,
+        "IN20": 26.0,
+        "IN20%": 41.27
+      },
+      "fit_score": 66,
+      "fit_grade": "C",
+      "score_breakdown": {
+        "statistical": 54,
+        "physical": 98,
+        "scheme": 55,
+        "culture": 57
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Daniel Hughes",
+      "school": "New Mexico State",
+      "year": "Junior",
+      "height": "6'5\"",
+      "weight": 235,
+      "stats": {
+        "Games": 12.0,
+        "PUNTS": 41.0,
+        "AVG": 45.4,
+        "LNG": 64.0,
+        "YDS": 1863.0,
+        "TB": 2.0,
+        "TB%": 4.88,
+        "IN20": 13.0,
+        "IN20%": 31.71
+      },
+      "fit_score": 59,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 39,
+        "physical": 90,
+        "scheme": 54,
+        "culture": 65
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Nathan Totten",
+      "school": "Marshall",
+      "year": "Senior",
+      "height": "6'1\"",
+      "weight": 230,
+      "stats": {
+        "Games": 12.0,
+        "PUNTS": 56.0,
+        "AVG": 45.535714285714285,
+        "LNG": 63.0,
+        "YDS": 2550.0,
+        "TB": 9.0,
+        "TB%": 16.07,
+        "IN20": 20.0,
+        "IN20%": 35.71
+      },
+      "fit_score": 55,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 25,
+        "physical": 96,
+        "scheme": 54,
+        "culture": 61
+      },
+      "ai_insight": null
+    },
+    {
+      "name": "Alex Bacchetta",
+      "school": "Rice",
+      "year": "Senior",
+      "height": "6'2\"",
+      "weight": 227,
+      "stats": {
+        "Games": 12.0,
+        "PUNTS": 62.0,
+        "AVG": 45.0,
+        "LNG": 64.0,
+        "YDS": 2788.0,
+        "TB": 4.0,
+        "TB%": 6.45,
+        "IN20": 12.0,
+        "IN20%": 19.35
+      },
+      "fit_score": 52,
+      "fit_grade": "D",
+      "score_breakdown": {
+        "statistical": 17,
+        "physical": 97,
+        "scheme": 55,
+        "culture": 57
+      },
+      "ai_insight": null
+    }
+  ]
+}
