@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aggie Portal IQ — Texas A&M Transfer Portal Analytics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ================================================================ HEADER ================================================================ -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">
+        <span class="logo-mark">A</span>
+        <div class="logo-text">
+          <span class="logo-title">Aggie Portal IQ</span>
+          <span class="logo-sub">Transfer Portal Analytics</span>
+        </div>
+      </div>
+      <nav class="main-nav">
+        <a href="#" class="nav-link active" data-page="overview">Overview</a>
+        <a href="#" class="nav-link" data-page="gaps">Roster Gaps</a>
+        <a href="#" class="nav-link" data-page="rankings">Portal Rankings</a>
+        <a href="#" class="nav-link" data-page="methodology">Methodology</a>
+        <a href="#" id="admin-trigger" class="nav-icon" title="Admin">&#9881;</a>
+      </nav>
+      <button class="nav-mobile-toggle" id="nav-mobile-toggle" aria-label="Menu">&#9776;</button>
+    </div>
+  </header>
+
+  <!-- ================================================================ PAGE: OVERVIEW ================================================================ -->
+  <div class="page active" id="page-overview">
+    <section class="hero">
+      <div class="container">
+        <div class="hero-content">
+          <div class="hero-badge">2026 Season Analysis</div>
+          <h1 class="hero-title">Aggie Portal IQ</h1>
+          <p class="hero-subtitle">
+            Data-driven transfer portal analysis for Texas A&amp;M Football.<br />
+            120 prospects scored across 12 position groups using a multi-factor fit model.
+          </p>
+          <div class="hero-stats">
+            <div class="hero-stat">
+              <span class="hero-stat-number" id="stat-departed">19</span>
+              <span class="hero-stat-label">Roster Departures</span>
+            </div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat">
+              <span class="hero-stat-number" id="stat-prospects">120</span>
+              <span class="hero-stat-label">Prospects Analyzed</span>
+            </div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat">
+              <span class="hero-stat-number">12</span>
+              <span class="hero-stat-label">Position Groups</span>
+            </div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat">
+              <span class="hero-stat-number">4</span>
+              <span class="hero-stat-label">Scoring Factors</span>
+            </div>
+          </div>
+          <div class="hero-cta">
+            <button class="btn btn-primary" data-page="gaps">View Roster Needs</button>
+            <button class="btn btn-secondary" data-page="rankings">Portal Rankings</button>
+          </div>
+        </div>
+      </div>
+      <div class="hero-bg-text">AGGIES</div>
+    </section>
+
+    <!-- Quick position overview -->
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">2026 Roster Snapshot</h2>
+          <p class="section-desc">Click any position to jump to the full Roster Gaps analysis.</p>
+        </div>
+        <div class="needs-grid" id="overview-needs-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ================================================================ PAGE: ROSTER GAPS ================================================================ -->
+  <div class="page" id="page-gaps">
+    <div class="container" style="padding-top:40px; padding-bottom:60px">
+
+      <!-- Header -->
+      <div class="section-header" style="text-align:left; margin-bottom:32px">
+        <h2 class="section-title">Roster Gaps &amp; Analysis</h2>
+        <p class="section-desc" style="text-align:left; margin:0">
+          2025 departures, 2026 current roster, coaching notes, and your portal board.
+        </p>
+      </div>
+
+      <!-- Tab bar within Gaps page -->
+      <div class="gaps-tabs" id="gaps-tabs">
+        <button class="gaps-tab active" data-gaps-tab="departures">Departures</button>
+        <button class="gaps-tab" data-gaps-tab="roster2026">2026 Roster</button>
+        <button class="gaps-tab" data-gaps-tab="notes">Coach Notes</button>
+        <button class="gaps-tab" data-gaps-tab="board">My Portal Board <span class="board-count-badge" id="board-count-badge"></span></button>
+      </div>
+
+      <!-- Sub-page: Departures -->
+      <div class="gaps-panel active" id="gaps-departures">
+        <p class="gaps-intro">Click a position to see who left and how.</p>
+        <div class="needs-grid" id="gaps-needs-grid"></div>
+      </div>
+
+      <!-- Sub-page: 2026 Roster -->
+      <div class="gaps-panel" id="gaps-roster2026">
+        <p class="gaps-intro">Current 2026 roster players by position group.</p>
+        <div id="roster2026-content"></div>
+      </div>
+
+      <!-- Sub-page: Coach Notes -->
+      <div class="gaps-panel" id="gaps-notes">
+        <div class="notes-header">
+          <h3>Team Assessment &amp; Areas for Improvement</h3>
+          <p>Your analysis is visible to anyone who views the site. Notes auto-save as you type.</p>
+        </div>
+        <div class="notes-overall">
+          <label class="notes-label">Overall Team Assessment</label>
+          <textarea class="notes-textarea" id="notes-overall" placeholder="Write your overall assessment of the 2026 A&M roster — strengths, weaknesses, what the coaching staff needs to address..."></textarea>
+        </div>
+        <div class="notes-positions" id="notes-positions">
+          <!-- Populated by script.js -->
+        </div>
+      </div>
+
+      <!-- Sub-page: Portal Board -->
+      <div class="gaps-panel" id="gaps-board">
+        <div class="board-header">
+          <h3>My 2026 Portal Board</h3>
+          <p>Players you've added from Portal Rankings. See how they improve each position.</p>
+          <button class="btn btn-secondary btn-sm" id="clear-board-btn">Clear Board</button>
+        </div>
+        <div id="board-content">
+          <div class="empty-state">
+            <h3>No players added yet</h3>
+            <p>Go to <strong>Portal Rankings</strong> and click <strong>+ Add to Board</strong> on any player card.</p>
+            <button class="btn btn-primary" data-page="rankings" style="margin-top:16px">Go to Rankings</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ================================================================ PAGE: PORTAL RANKINGS ================================================================ -->
+  <div class="page" id="page-rankings">
+    <div class="section section-alt" style="min-height:80vh">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Transfer Portal Rankings</h2>
+          <p class="section-desc">
+            All 120 prospects scored on Statistical Performance, Physical Profile,
+            Scheme Fit, and Culture/Team Fit. Based on 2025 season statistics.
+          </p>
+        </div>
+
+        <div class="pos-tabs-wrapper">
+          <div class="pos-tabs" id="pos-tabs" role="tablist"></div>
+        </div>
+
+        <div class="rankings-toolbar">
+          <div class="view-toggle">
+            <button class="view-btn active" id="view-cards">
+              <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor">
+                <rect x="0" y="0" width="7" height="7" rx="1"/><rect x="9" y="0" width="7" height="7" rx="1"/>
+                <rect x="0" y="9" width="7" height="7" rx="1"/><rect x="9" y="9" width="7" height="7" rx="1"/>
+              </svg>
+              Cards
+            </button>
+            <button class="view-btn" id="view-table">
+              <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor">
+                <rect x="0" y="0" width="16" height="3" rx="1"/><rect x="0" y="5" width="16" height="3" rx="1"/>
+                <rect x="0" y="10" width="16" height="3" rx="1"/>
+              </svg>
+              Table
+            </button>
+          </div>
+          <div id="active-need-badge"></div>
+        </div>
+
+        <div class="players-cards" id="players-cards"></div>
+        <div class="players-table-wrap hidden" id="players-table-wrap">
+          <table class="players-table" id="players-table">
+            <thead>
+              <tr>
+                <th data-sort="rank">#</th>
+                <th data-sort="name">Player</th>
+                <th data-sort="school">School</th>
+                <th data-sort="year">Year</th>
+                <th data-sort="fit_score" class="sort-active sort-desc">Fit Score</th>
+                <th data-sort="statistical">Stats</th>
+                <th data-sort="physical">Physical</th>
+                <th data-sort="scheme">Scheme</th>
+                <th data-sort="culture">Culture</th>
+                <th>Board</th>
+              </tr>
+            </thead>
+            <tbody id="players-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================================================================ PAGE: METHODOLOGY ================================================================ -->
+  <div class="page" id="page-methodology">
+    <section class="section">
+      <div class="container">
+        <div class="section-header">
+          <h2 class="section-title">Scoring Methodology</h2>
+          <p class="section-desc">
+            Each prospect is evaluated on four independent factors, weighted and combined into a Fit Score from 0–100.
+          </p>
+        </div>
+        <div class="method-grid">
+          <div class="method-card">
+            <div class="method-icon method-stat">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+            </div>
+            <div class="method-weight">35%</div>
+            <h3>Statistical Performance</h3>
+            <p>2025 season statistics normalized within each position group. Position-specific key metrics (Passer Rating for QBs, Sacks + TFL for edge rushers, INT + PD for corners) are weighted and min-max scaled to a 0–100 score.</p>
+          </div>
+          <div class="method-card">
+            <div class="method-icon method-phys">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+            </div>
+            <div class="method-weight">25%</div>
+            <h3>Physical Profile</h3>
+            <p>Height and weight evaluated against Texas A&amp;M's positional ideal ranges informed by Mike Elko's defensive scheme. Players within the ideal window score 100; deviations are penalized proportionally.</p>
+          </div>
+          <div class="method-card">
+            <div class="method-icon method-scheme">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M4.93 4.93a10 10 0 0 0 0 14.14"/></svg>
+            </div>
+            <div class="method-weight">25%</div>
+            <h3>Scheme Fit</h3>
+            <p>Combines position group need urgency (Critical / High / Medium / Low) with physical profile alignment to A&amp;M's system. Critical positions receive a higher baseline score.</p>
+          </div>
+          <div class="method-card">
+            <div class="method-icon method-culture">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+            </div>
+            <div class="method-weight">15%</div>
+            <h3>Culture &amp; Team Fit</h3>
+            <p>Weighs eligibility remaining (freshmen score highest for program investment value) and transfer school pedigree. Power 4 transfers bring proven competition experience.</p>
+          </div>
+        </div>
+        <div class="grade-scale">
+          <div class="grade-scale-label">Fit Score Scale</div>
+          <div class="grade-scale-items">
+            <div class="grade-item grade-a-plus"><span>90–100</span><strong>A+</strong></div>
+            <div class="grade-item grade-a"><span>85–89</span><strong>A</strong></div>
+            <div class="grade-item grade-a-minus"><span>80–84</span><strong>A-</strong></div>
+            <div class="grade-item grade-b-plus"><span>77–79</span><strong>B+</strong></div>
+            <div class="grade-item grade-b"><span>73–76</span><strong>B</strong></div>
+            <div class="grade-item grade-b-minus"><span>70–72</span><strong>B-</strong></div>
+            <div class="grade-item grade-c-plus"><span>67–69</span><strong>C+</strong></div>
+            <div class="grade-item grade-c"><span>63–66</span><strong>C</strong></div>
+            <div class="grade-item grade-d"><span>&lt;63</span><strong>D</strong></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- ================================================================ FOOTER ================================================================ -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span class="logo-mark small">A</span>
+        <span>Aggie Portal IQ</span>
+      </div>
+      <div class="footer-info">
+        Built by <strong>Trevor Doke</strong> &middot; Texas A&amp;M Sports Analytics &middot; 2026
+      </div>
+      <div class="footer-links">
+        <a href="https://www.linkedin.com/in/trevordoke" target="_blank" rel="noopener" class="footer-link">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          LinkedIn
+        </a>
+      </div>
+    </div>
+    <div class="footer-disclaimer">
+      Analysis based on publicly available 2025 season statistics and transfer portal data. For portfolio purposes only. Not affiliated with Texas A&amp;M University.
+    </div>
+  </footer>
+
+  <!-- ================================================================ ADMIN PANEL ================================================================ -->
+  <div class="admin-overlay hidden" id="admin-overlay">
+    <div class="admin-panel">
+      <div class="admin-header">
+        <h2>Admin — 2026 Gap Updates</h2>
+        <button class="admin-close" id="admin-close">&times;</button>
+      </div>
+      <div class="admin-auth" id="admin-auth">
+        <p>Enter admin password to update 2026 position gap status:</p>
+        <div class="admin-auth-row">
+          <input type="password" id="admin-password" placeholder="Password" />
+          <button class="btn btn-primary" id="admin-login-btn">Unlock</button>
+        </div>
+        <p class="admin-hint">Default password: <code>aggies2026</code></p>
+      </div>
+      <div class="admin-content hidden" id="admin-content">
+        <p class="admin-intro">Update each position's 2026 gap status. Changes save automatically and update Fit Scores site-wide.</p>
+        <div class="admin-positions" id="admin-positions"></div>
+        <div class="admin-actions">
+          <button class="btn btn-secondary" id="admin-reset-btn">Reset All to Default</button>
+          <button class="btn btn-primary" id="admin-save-btn">Save &amp; Update Scores</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ================================================================ MODALS ================================================================ -->
+  <!-- Player detail modal -->
+  <div class="modal-overlay hidden" id="modal-overlay">
+    <div class="modal" id="player-modal">
+      <button class="modal-close" id="modal-close">&times;</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <!-- Departures modal -->
+  <div class="modal-overlay hidden" id="dep-modal-overlay">
+    <div class="modal" id="dep-modal">
+      <button class="modal-close" id="dep-modal-close">&times;</button>
+      <div id="dep-modal-content"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
