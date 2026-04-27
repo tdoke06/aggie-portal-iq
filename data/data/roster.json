@@ -1,0 +1,1238 @@
+{
+  "summary": {
+    "total_players": 130,
+    "departed_starters": 18,
+    "season": "2026"
+  },
+  "need_levels": {
+    "QB": {
+      "level": "LOW",
+      "departed": 0,
+      "returning": 4
+    },
+    "RB": {
+      "level": "MEDIUM",
+      "departed": 1,
+      "returning": 4
+    },
+    "WR": {
+      "level": "MEDIUM",
+      "departed": 1,
+      "returning": 12
+    },
+    "TE": {
+      "level": "HIGH",
+      "departed": 2,
+      "returning": 4
+    },
+    "OL": {
+      "level": "CRITICAL",
+      "departed": 5,
+      "returning": 10
+    },
+    "EDGE": {
+      "level": "HIGH",
+      "departed": 2,
+      "returning": 6
+    },
+    "DL": {
+      "level": "HIGH",
+      "departed": 2,
+      "returning": 5
+    },
+    "LB": {
+      "level": "HIGH",
+      "departed": 2,
+      "returning": 7
+    },
+    "CB": {
+      "level": "HIGH",
+      "departed": 2,
+      "returning": 9
+    },
+    "S": {
+      "level": "LOW",
+      "departed": 0,
+      "returning": 7
+    },
+    "K": {
+      "level": "MEDIUM",
+      "departed": 1,
+      "returning": 1
+    },
+    "P": {
+      "level": "LOW",
+      "departed": 0,
+      "returning": 3
+    }
+  },
+  "departed_players": [
+    {
+      "name": "Izaiah Williams",
+      "position": "WR",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "185",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Scooby Williams",
+      "position": "LB",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 2''",
+      "weight": "230",
+      "year": "Sr."
+    },
+    {
+      "name": "Will Lee III",
+      "position": "CB",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 1''",
+      "weight": "189",
+      "year": "Sr."
+    },
+    {
+      "name": "Amari Daniels",
+      "position": "RB",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 8''",
+      "weight": "197",
+      "year": "R-Sr."
+    },
+    {
+      "name": "Tyreek Chappell",
+      "position": "CB",
+      "departure": "Graduated",
+      "designation": "Starter",
+      "height": "5' 11''",
+      "weight": "180",
+      "year": "R-Sr."
+    },
+    {
+      "name": "KC Concepcion",
+      "position": "WR",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "5' 11''",
+      "weight": "190",
+      "year": "Jr."
+    },
+    {
+      "name": "Le'Veon Moss",
+      "position": "RB",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "5' 11''",
+      "weight": "210",
+      "year": "Sr."
+    },
+    {
+      "name": "Cashius Howell",
+      "position": "EDGE",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 2''",
+      "weight": "248",
+      "year": "R-Sr."
+    },
+    {
+      "name": "Jacob Zeno",
+      "position": "QB",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "6' 2''",
+      "weight": "215",
+      "year": "Gr."
+    },
+    {
+      "name": "Tyler Onyedim",
+      "position": "DL",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 3''",
+      "weight": "295",
+      "year": "Gr."
+    },
+    {
+      "name": "Jayvon Thomas",
+      "position": "CB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "196",
+      "year": "Jr."
+    },
+    {
+      "name": "Rylan Kennedy",
+      "position": "EDGE",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 3''",
+      "weight": "239",
+      "year": "R-So."
+    },
+    {
+      "name": "Wesley Watson",
+      "position": "WR",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "6' 0''",
+      "weight": "190",
+      "year": "Jr."
+    },
+    {
+      "name": "Miles O'Neill",
+      "position": "QB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 5''",
+      "weight": "220",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Theo Melin Öhrström",
+      "position": "TE",
+      "departure": "Transfer Portal",
+      "designation": "Starter",
+      "height": "6' 6''",
+      "weight": "257",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Albert Regis",
+      "position": "DL",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 1''",
+      "weight": "317",
+      "year": "Gr."
+    },
+    {
+      "name": "Johnny Ryder",
+      "position": "WR",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "6' 1''",
+      "weight": "203",
+      "year": "Jr."
+    },
+    {
+      "name": "Taurean York",
+      "position": "LB",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "5' 10''",
+      "weight": "227",
+      "year": "Jr."
+    },
+    {
+      "name": "EJ Smith",
+      "position": "RB",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "211",
+      "year": "Gr."
+    },
+    {
+      "name": "Cobey Sellers",
+      "position": "CB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "176",
+      "year": "Fr."
+    },
+    {
+      "name": "Dashawn Fillmore",
+      "position": "S",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 10''",
+      "weight": "192",
+      "year": "Sr."
+    },
+    {
+      "name": "Ronnie Crosby III",
+      "position": "RB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 8''",
+      "weight": "210",
+      "year": "Jr."
+    },
+    {
+      "name": "Jordan Pride",
+      "position": "S",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 1''",
+      "weight": "196",
+      "year": "R-Fr."
+    },
+    {
+      "name": "JR Rosenberg",
+      "position": "CB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 9''",
+      "weight": "182",
+      "year": "Jr."
+    },
+    {
+      "name": "Solomon Williams",
+      "position": "EDGE",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 1''",
+      "weight": "250",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Tristan Jernigan",
+      "position": "LB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 0''",
+      "weight": "230",
+      "year": "So."
+    },
+    {
+      "name": "Jarred Kerr",
+      "position": "S",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "190",
+      "year": "Sr."
+    },
+    {
+      "name": "Preston Landis",
+      "position": "RB",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 10''",
+      "weight": "207",
+      "year": "Sr."
+    },
+    {
+      "name": "Isaiah Willis",
+      "position": "S",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "6' 0''",
+      "weight": "207",
+      "year": "Jr."
+    },
+    {
+      "name": "Truette Tumey",
+      "position": "P",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "180",
+      "year": "Sr."
+    },
+    {
+      "name": "Benjamin Bruce",
+      "position": "CB",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 10''",
+      "weight": "175",
+      "year": "So."
+    },
+    {
+      "name": "AJ DiNota",
+      "position": "RB",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "6' 0''",
+      "weight": "215",
+      "year": "Sr."
+    },
+    {
+      "name": "Liam Padron",
+      "position": "K",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "5' 9''",
+      "weight": "205",
+      "year": "So."
+    },
+    {
+      "name": "Zachary Clay",
+      "position": "TE",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "243",
+      "year": "Gr."
+    },
+    {
+      "name": "Aidan Herrera",
+      "position": "LB",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "223",
+      "year": "Jr."
+    },
+    {
+      "name": "Randy Bond",
+      "position": "K",
+      "departure": "Graduated",
+      "designation": "Starter",
+      "height": "5' 10''",
+      "weight": "198",
+      "year": "Gr."
+    },
+    {
+      "name": "Dayon Hayes",
+      "position": "EDGE",
+      "departure": "Graduated",
+      "designation": "Starter",
+      "height": "6' 3''",
+      "weight": "264",
+      "year": "Gr."
+    },
+    {
+      "name": "Jadon Scarlett",
+      "position": "DL",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "6' 2''",
+      "weight": "297",
+      "year": "R-So."
+    },
+    {
+      "name": "Dealyn Evans",
+      "position": "DL",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 5''",
+      "weight": "310",
+      "year": "Fr."
+    },
+    {
+      "name": "Ar'maj Reed-Adams",
+      "position": "OL",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 5''",
+      "weight": "325",
+      "year": "Gr."
+    },
+    {
+      "name": "William Huntsinger",
+      "position": "OL",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "6' 3''",
+      "weight": "300",
+      "year": "Jr."
+    },
+    {
+      "name": "Trey Zuhn III",
+      "position": "OL",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 6''",
+      "weight": "319",
+      "year": "Gr."
+    },
+    {
+      "name": "Koli Faaiu",
+      "position": "OL",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "6' 3''",
+      "weight": "333",
+      "year": "Sr."
+    },
+    {
+      "name": "Chance Jackson",
+      "position": "OL",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "285",
+      "year": "Jr."
+    },
+    {
+      "name": "Chase Bisontis",
+      "position": "OL",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 5''",
+      "weight": "315",
+      "year": "Jr."
+    },
+    {
+      "name": "Jonte Newman",
+      "position": "OL",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 4''",
+      "weight": "331",
+      "year": "Fr."
+    },
+    {
+      "name": "Reuben Fatheree II",
+      "position": "OL",
+      "departure": "Graduated",
+      "designation": "Starter",
+      "height": "6' 7''",
+      "weight": "333",
+      "year": "Gr."
+    },
+    {
+      "name": "Dametrious Crownover",
+      "position": "OL",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 7''",
+      "weight": "336",
+      "year": "Gr."
+    },
+    {
+      "name": "Amari Niblack",
+      "position": "TE",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "6' 3''",
+      "weight": "235",
+      "year": "R-Sr."
+    },
+    {
+      "name": "Nate Boerkircher",
+      "position": "TE",
+      "departure": "NFL",
+      "designation": "Starter",
+      "height": "6' 4''",
+      "weight": "250",
+      "year": "Gr."
+    },
+    {
+      "name": "Lucas Pernas",
+      "position": "DL",
+      "departure": "Not on Team",
+      "designation": "Depth",
+      "height": "6' 2''",
+      "weight": "282",
+      "year": "Fr."
+    },
+    {
+      "name": "Nathan Jackson",
+      "position": "DL",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "5' 11''",
+      "weight": "291",
+      "year": "Sr."
+    },
+    {
+      "name": "Alessandro Perez",
+      "position": "EDGE",
+      "departure": "Transfer Portal",
+      "designation": "Depth",
+      "height": "6' 2''",
+      "weight": "234",
+      "year": "Jr."
+    },
+    {
+      "name": "Jared Zirkel",
+      "position": "K",
+      "departure": "Graduated",
+      "designation": "Depth",
+      "height": "6' 2''",
+      "weight": "194",
+      "year": "Gr."
+    }
+  ],
+  "current_roster_2026": [
+    {
+      "name": "KJ Edwards",
+      "position": "RB",
+      "height": "5' 10''",
+      "weight": "187",
+      "year": "Fr."
+    },
+    {
+      "name": "Noah Mikhail",
+      "position": "LB",
+      "height": "6' 2''",
+      "weight": "223",
+      "year": "So."
+    },
+    {
+      "name": "Bryce Anderson",
+      "position": "S",
+      "height": "5' 10''",
+      "weight": "186",
+      "year": "Gr."
+    },
+    {
+      "name": "Mario Craver",
+      "position": "WR",
+      "height": "5' 9''",
+      "weight": "165",
+      "year": "Jr."
+    },
+    {
+      "name": "Jamarion Morrow",
+      "position": "RB",
+      "height": "5' 9''",
+      "weight": "205",
+      "year": "So."
+    },
+    {
+      "name": "Dezz Ricks",
+      "position": "CB",
+      "height": "6' 1''",
+      "weight": "188",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Aaron Gregory",
+      "position": "WR",
+      "height": "6' 2''",
+      "weight": "177",
+      "year": "Fr."
+    },
+    {
+      "name": "Marcus Ratcliffe",
+      "position": "S",
+      "height": "6' 2''",
+      "weight": "209",
+      "year": "Sr."
+    },
+    {
+      "name": "Rueben Owens II",
+      "position": "RB",
+      "height": "5' 11''",
+      "weight": "215",
+      "year": "R-Jr."
+    },
+    {
+      "name": "DJ Hicks",
+      "position": "DL",
+      "height": "6' 3''",
+      "weight": "295",
+      "year": "Sr."
+    },
+    {
+      "name": "Tiger Riden Jr.",
+      "position": "RB",
+      "height": "5' 10''",
+      "weight": "212",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Terry Bussey",
+      "position": "WR",
+      "height": "5' 10''",
+      "weight": "195",
+      "year": "Jr."
+    },
+    {
+      "name": "Julio Humphrey",
+      "position": "CB",
+      "height": "6' 1''",
+      "weight": "195",
+      "year": "R-Sr."
+    },
+    {
+      "name": "Dalton Brooks",
+      "position": "S",
+      "height": "6' 0''",
+      "weight": "193",
+      "year": "Sr."
+    },
+    {
+      "name": "Ashton Bethel-Roman",
+      "position": "WR",
+      "height": "6' 0''",
+      "weight": "185",
+      "year": "R-So."
+    },
+    {
+      "name": "Jordan Shaw",
+      "position": "CB",
+      "height": "5' 11''",
+      "weight": "182",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Marco Jones",
+      "position": "EDGE",
+      "height": "6' 5''",
+      "weight": "258",
+      "year": "So."
+    },
+    {
+      "name": "Marcel Reed",
+      "position": "QB",
+      "height": "6' 1''",
+      "weight": "185",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Kelshaun Johnson",
+      "position": "WR",
+      "height": "5' 11''",
+      "weight": "168",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Nana Boadi-Owusu",
+      "position": "EDGE",
+      "height": "6' 1''",
+      "weight": "246",
+      "year": "Gr."
+    },
+    {
+      "name": "Myles Davis",
+      "position": "S",
+      "height": "6' 1''",
+      "weight": "196",
+      "year": "Jr."
+    },
+    {
+      "name": "Brady Hart",
+      "position": "QB",
+      "height": "6' 4''",
+      "weight": "195",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Deyjhon Pettaway",
+      "position": "CB",
+      "height": "5' 10''",
+      "weight": "188",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Eli Morcos",
+      "position": "QB",
+      "height": "6' 1''",
+      "weight": "205",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Sam M'Pemba",
+      "position": "EDGE",
+      "height": "6' 3''",
+      "weight": "252",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Caleb Tafua",
+      "position": "TE",
+      "height": "6' 5''",
+      "weight": "215",
+      "year": "Fr."
+    },
+    {
+      "name": "Tylan Wilson",
+      "position": "S",
+      "height": "6' 1''",
+      "weight": "185",
+      "year": "Fr."
+    },
+    {
+      "name": "Jamar Beal-Goines",
+      "position": "CB",
+      "height": "5' 11''",
+      "weight": "180",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Helaman Casuga",
+      "position": "QB",
+      "height": "6' 0''",
+      "weight": "200",
+      "year": "Fr."
+    },
+    {
+      "name": "Bryce Perry-Wright",
+      "position": "EDGE",
+      "height": "6' 2''",
+      "weight": "253",
+      "year": "Fr."
+    },
+    {
+      "name": "Madden Williams",
+      "position": "WR",
+      "height": "6' 1''",
+      "weight": "187",
+      "year": "Fr."
+    },
+    {
+      "name": "TK Norman",
+      "position": "WR",
+      "height": "6' 0''",
+      "weight": "182",
+      "year": "R-Fr."
+    },
+    {
+      "name": "T.J. Searcy",
+      "position": "EDGE",
+      "height": "6' 5''",
+      "weight": "255",
+      "year": "Sr."
+    },
+    {
+      "name": "KK Johnson",
+      "position": "TE",
+      "height": "6' 5''",
+      "weight": "226",
+      "year": "Fr."
+    },
+    {
+      "name": "Paxton Land",
+      "position": "QB",
+      "height": "6' 4''",
+      "weight": "225",
+      "year": "R-So."
+    },
+    {
+      "name": "Mike Brown",
+      "position": "WR",
+      "height": "6' 0''",
+      "weight": "182",
+      "year": "Fr."
+    },
+    {
+      "name": "Adonyss Currie",
+      "position": "CB",
+      "height": "6' 0''",
+      "weight": "174",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Vic Singleton",
+      "position": "CB",
+      "height": "5' 11''",
+      "weight": "164",
+      "year": "Fr."
+    },
+    {
+      "name": "Carsyn Baker",
+      "position": "RB",
+      "height": "6' 0''",
+      "weight": "195",
+      "year": "Fr."
+    },
+    {
+      "name": "Tristian Givens",
+      "position": "EDGE",
+      "height": "6' 3''",
+      "weight": "215",
+      "year": "Fr."
+    },
+    {
+      "name": "Tom Tom Johnson Jr.",
+      "position": "S",
+      "height": "6' 1''",
+      "weight": "198",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Brandon Arrington",
+      "position": "CB",
+      "height": "6' 2''",
+      "weight": "185",
+      "year": "Fr."
+    },
+    {
+      "name": "Ramarian Tillman",
+      "position": "RB",
+      "height": "5' 10''",
+      "weight": "220",
+      "year": "R-So."
+    },
+    {
+      "name": "Tamarion Watkins",
+      "position": "LB",
+      "height": "6' 3''",
+      "weight": "201",
+      "year": "Fr."
+    },
+    {
+      "name": "Layne Gerke",
+      "position": "S",
+      "height": "5' 10''",
+      "weight": "193",
+      "year": "R-So."
+    },
+    {
+      "name": "Daymion Sanford",
+      "position": "LB",
+      "height": "6' 2''",
+      "weight": "230",
+      "year": "Sr."
+    },
+    {
+      "name": "Chance Collins",
+      "position": "S",
+      "height": "6' 1''",
+      "weight": "189",
+      "year": "Fr."
+    },
+    {
+      "name": "Kelvion Riggins",
+      "position": "LB",
+      "height": "5' 11''",
+      "weight": "210",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Tank King",
+      "position": "LB",
+      "height": "6' 0''",
+      "weight": "210",
+      "year": "Fr."
+    },
+    {
+      "name": "Storm Miller",
+      "position": "LB",
+      "height": "6' 2''",
+      "weight": "215",
+      "year": "Fr."
+    },
+    {
+      "name": "Kyle Garvis",
+      "position": "LB",
+      "height": "5' 10''",
+      "weight": "223",
+      "year": "R-So."
+    },
+    {
+      "name": "Peyton Gay",
+      "position": "S",
+      "height": "5' 10''",
+      "weight": "206",
+      "year": "R-So."
+    },
+    {
+      "name": "Tyler White",
+      "position": "P",
+      "height": "6' 3''",
+      "weight": "225",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Jared White",
+      "position": "P",
+      "height": "6' 3''",
+      "weight": "215",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Whitaker Williams",
+      "position": "WR",
+      "height": "6' 2''",
+      "weight": "",
+      "year": "R-So."
+    },
+    {
+      "name": "Luke Miller",
+      "position": "WR",
+      "height": "5' 9''",
+      "weight": "188",
+      "year": "Sr."
+    },
+    {
+      "name": "Kendall Jackson",
+      "position": "EDGE",
+      "height": "6' 3''",
+      "weight": "256",
+      "year": "R-So."
+    },
+    {
+      "name": "Carter Braugh",
+      "position": "TE",
+      "height": "6' 6''",
+      "weight": "246",
+      "year": "R-So."
+    },
+    {
+      "name": "Jeremiah Searcy",
+      "position": "LB",
+      "height": "6' 0''",
+      "weight": "205",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Tommy Colligan",
+      "position": "LB",
+      "height": "6' 1''",
+      "weight": "226",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Qui Beck",
+      "position": "LB",
+      "height": "6' 0''",
+      "weight": "215",
+      "year": "Fr."
+    },
+    {
+      "name": "Isendre \"Papa\" Ahfua",
+      "position": "OL",
+      "height": "6' 3''",
+      "weight": "342",
+      "year": "R-So."
+    },
+    {
+      "name": "Blake Ivy",
+      "position": "OL",
+      "height": "6' 3''",
+      "weight": "336",
+      "year": "R-So."
+    },
+    {
+      "name": "Jordan Lockhart",
+      "position": "LB",
+      "height": "6' 1''",
+      "weight": "229",
+      "year": "Jr."
+    },
+    {
+      "name": "Mark Nabou Jr.",
+      "position": "OL",
+      "height": "6' 4''",
+      "weight": "330",
+      "year": "Gr."
+    },
+    {
+      "name": "Hunter McKinney",
+      "position": "OL",
+      "height": "6' 3''",
+      "weight": "307",
+      "year": "Fr."
+    },
+    {
+      "name": "Samu Moala",
+      "position": "EDGE",
+      "height": "6' 4''",
+      "weight": "247",
+      "year": "Fr."
+    },
+    {
+      "name": "Nelson McGuire",
+      "position": "OL",
+      "height": "6' 4''",
+      "weight": "319",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Chace Sims",
+      "position": "DL",
+      "height": "6' 3''",
+      "weight": "294",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Marcus Garcia",
+      "position": "OL",
+      "height": "6' 3''",
+      "weight": "304",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Sam Roseborough",
+      "position": "OL",
+      "height": "6' 3''",
+      "weight": "289",
+      "year": "Fr."
+    },
+    {
+      "name": "Avery Morcho",
+      "position": "OL",
+      "height": "6' 6''",
+      "weight": "284",
+      "year": "Fr."
+    },
+    {
+      "name": "Robert Bourdon",
+      "position": "OL",
+      "height": "6' 6''",
+      "weight": "318",
+      "year": "R-So."
+    },
+    {
+      "name": "Joshua Moses",
+      "position": "OL",
+      "height": "6' 2''",
+      "weight": "359",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Ashton Funk",
+      "position": "OL",
+      "height": "6' 6''",
+      "weight": "322",
+      "year": "R-So."
+    },
+    {
+      "name": "Zaden Krempin",
+      "position": "OL",
+      "height": "6' 4''",
+      "weight": "266",
+      "year": "Fr."
+    },
+    {
+      "name": "Tyler Thomas",
+      "position": "OL",
+      "height": "6' 4''",
+      "weight": "329",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Lamont Rogers",
+      "position": "OL",
+      "height": "6' 6''",
+      "weight": "337",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Jerome Myles",
+      "position": "WR",
+      "height": "6' 2''",
+      "weight": "220",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Luke Braden",
+      "position": "TE",
+      "height": "6' 4''",
+      "weight": "245",
+      "year": "R-So."
+    },
+    {
+      "name": "Jayden Warren",
+      "position": "WR",
+      "height": "6' 1''",
+      "weight": "194",
+      "year": "Fr."
+    },
+    {
+      "name": "Jonah Wilson",
+      "position": "WR",
+      "height": "6' 2''",
+      "weight": "211",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Colton Chmelar",
+      "position": "K",
+      "height": "6' 0''",
+      "weight": "191",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Will Hargett",
+      "position": "WR",
+      "height": "5' 9''",
+      "weight": "165",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Chase Burton",
+      "position": "WR",
+      "height": "5' 10''",
+      "weight": "187",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Ryan Burtin",
+      "position": "CB",
+      "height": "5' 7''",
+      "weight": "170",
+      "year": "R-Jr."
+    },
+    {
+      "name": "Micah Riley",
+      "position": "TE",
+      "height": "6' 5''",
+      "weight": "257",
+      "year": "R-Sr."
+    },
+    {
+      "name": "DJ Sanders",
+      "position": "DL",
+      "height": "6' 3''",
+      "weight": "315",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Kade Stewart",
+      "position": "WR",
+      "height": "6' 2''",
+      "weight": "197",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Asher Murray",
+      "position": "K",
+      "height": "5' 10''",
+      "weight": "176",
+      "year": "Fr."
+    },
+    {
+      "name": "Nathan Mabon",
+      "position": "DL",
+      "height": "6' 0''",
+      "weight": "292",
+      "year": "R-Fr."
+    },
+    {
+      "name": "Alex Abbott",
+      "position": "P",
+      "height": "6' 0''",
+      "weight": "190",
+      "year": "R-So."
+    },
+    {
+      "name": "Waylon Peters",
+      "position": "P",
+      "height": "6' 4''",
+      "weight": "193",
+      "year": "Fr."
+    },
+    {
+      "name": "Jesse Chukwu",
+      "position": "EDGE",
+      "height": "6' 0''",
+      "weight": "225",
+      "year": "R-Sr."
+    },
+    {
+      "name": "Jermaine Kinsler",
+      "position": "DL",
+      "height": "6' 5''",
+      "weight": "285",
+      "year": "Fr."
+    },
+    {
+      "name": "Landon Rink",
+      "position": "DL",
+      "height": "6' 2''",
+      "weight": "294",
+      "year": "So."
+    },
+    {
+      "name": "Kiotti Armstrong",
+      "position": "TE",
+      "height": "6' 5''",
+      "weight": "275",
+      "year": "R-Fr."
+    }
+  ]
+}
